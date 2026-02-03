@@ -7,7 +7,7 @@ Used to be a public menu that I planned on updating but changed my mind and drop
 
 Aimbot & ESP only : https://github.com/0xa455
 
-Has a shitton of features, feel free to skid :)
+Has alot of features, feel free to use :)
 
 
 - Note
